@@ -17,3 +17,7 @@ Falix#2290
 ### | Мои языки
 
 [![Tlangs](https://github-readme-stats.vercel.app/api/top-langs/?username=falixkamishin&layout=compact&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
+
+### | VimeWorld Level
+
+[![vimelevel](https://ub.vimetop.ru/v1/player/7092318/5/1.png)](https://vimetop.ru/player/FalixKamishin010)
