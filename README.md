@@ -5,3 +5,7 @@
 ### | Discord
 
 Falix#2290
+
+### Моя статистика
+
+[![falix stats](https://github-readme-stats.vercel.app/api?username=falixkamishin&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
