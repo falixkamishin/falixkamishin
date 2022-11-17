@@ -4,7 +4,7 @@
 
 ### | Discord
 
-![Discord](https://img.shields.io/badge/-Name:Falix%20Tag:%202290-000000?style=for-the-badge&logo=discord)[(https://discord.com)
+![Discord](https://img.shields.io/badge/-Name:Falix%20Tag:%202290-000000?style=for-the-badge&logo=discord)](https://discord.com)
 
 ### | Моя статистика
 
