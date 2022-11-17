@@ -1,4 +1,4 @@
-### Привет, я Даня!
+### | Привет, я Даня!
 
 ![ccv](https://user-images.githubusercontent.com/118070059/201486097-0efb3f28-6fa5-44ab-b84c-50394b1038e9.jpg)
 
@@ -13,3 +13,7 @@ Falix#2290
 ### | Мой профиль
 
 [![repo](https://github-readme-stats.vercel.app/api/pin/?username=falixkamishin&repo=falixkamishin&show_owner=true&theme=rose_pine)](https://github.com/falixkamishin/)
+
+### | Мои языки
+
+[![Tlangs](https://github-readme-stats.vercel.app/api/top-langs/?username=falixkamishin&layout=compact&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
